@@ -9,10 +9,11 @@ https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset?resourc
 
 ### Analytical Insights:
 * Higer ratings in body tend to reslut in higer ratings overall.
-  - Having trouble attaching the screenshot. (will upload soon)
+  ![Screenshot 2023-04-13 184518](https://user-images.githubusercontent.com/29460152/231906161-2ccd07ce-f1e2-4cbf-9b73-f8a59d956440.png)
+
 
 * Most common types of wine in the data set are Reds or a version of Reds.
-  - Having trouble attaching the screenshot. (will upload soon)
+  ![Screenshot 2023-04-13 184620](https://user-images.githubusercontent.com/29460152/231906169-36a889f7-7fee-402d-a3c2-717563052b4d.png)
   
 ### Metrics for Random Forest Classification w/ GridSearchCV:
 Received 0.79 accuracy on the training data.
