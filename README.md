@@ -14,6 +14,9 @@ https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset?resourc
 
 * Most common types of wine in the data set are Reds or a version of Reds.
   ![Screenshot 2023-04-13 184620](https://user-images.githubusercontent.com/29460152/231906169-36a889f7-7fee-402d-a3c2-717563052b4d.png)
+ 
+* With the graphs below you can see that the acidity of the wines tends to correlate to higher prices, as well as higher ratings. Knowing this we can market wines with higer acidity and higer bodies to our premium customers.
+  ![Screenshot 2023-04-18 225124](https://user-images.githubusercontent.com/29460152/232962604-454a300b-a74b-40c0-aed8-9b8504430655.png)
   
 ### Metrics for Random Forest Classification w/ GridSearchCV:
 Received 0.79 accuracy on the training data.
