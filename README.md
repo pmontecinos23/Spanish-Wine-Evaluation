@@ -8,15 +8,11 @@ Determine the best rated wine, so that we may choose the best way to use our res
 https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset?resource=download
 
 ### Analytical Insights:
-* Higer ratings in body tend to reslut in higer ratings overall.
-  ![Screenshot 2023-04-13 184518](https://user-images.githubusercontent.com/29460152/231906161-2ccd07ce-f1e2-4cbf-9b73-f8a59d956440.png)
+
+![Screenshot 2023-04-19 214557](https://user-images.githubusercontent.com/29460152/233245190-7feaaf4c-9d19-4662-b92f-6d45599b1fe4.png)
 
 
-* Most common types of wine in the data set are Reds or a version of Reds.
-  ![Screenshot 2023-04-13 184620](https://user-images.githubusercontent.com/29460152/231906169-36a889f7-7fee-402d-a3c2-717563052b4d.png)
- 
-* With the graphs below you can see that the acidity of the wines tends to correlate to higher prices, as well as higher ratings. Knowing this we can market wines with higer acidity and higer bodies to our premium customers.
-  ![Screenshot 2023-04-18 225124](https://user-images.githubusercontent.com/29460152/232962604-454a300b-a74b-40c0-aed8-9b8504430655.png)
+![Screenshot 2023-04-19 214544](https://user-images.githubusercontent.com/29460152/233245195-38fdd8f4-95e5-488f-8b22-10219d8708b4.png)
   
 ### Metrics for Random Forest Classification w/ GridSearchCV:
 Received 0.79 accuracy on the training data.
